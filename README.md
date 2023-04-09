@@ -1,16 +1,14 @@
 # arafaat_task_ropstam
-
-A new Flutter project.
-
+Car app project
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The app uses sembast package for session management .
 
-A few resources to get you started if this is your first Flutter project:
+#State Manegement : Provider
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The app uses provider for the state managemment and MVVM architecture.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Car crud operations
+
+The app is basically an app where you can add , view, update and delete the cars data .
+
